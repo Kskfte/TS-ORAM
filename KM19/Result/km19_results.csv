@@ -1,0 +1,5 @@
+log_database_size, element_size, setup_time (s), setup_bandwidth (B), amortized_access_time (s), amortized_access_bandwidth (B)
+6,32,14.6313,3.28146e+06,0.382893,79481
+8,32,88.7472,1.89829e+07,0.540137,113630
+10,32,480.707,1.03784e+08,1.11718,237962
+12,32,2606.12,5.44373e+08,1.25661,267418

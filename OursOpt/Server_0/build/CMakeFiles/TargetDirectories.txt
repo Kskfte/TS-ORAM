@@ -1,0 +1,4 @@
+/home/zxl/local/TS-ORAM/OursOpt/Server_0/build/CMakeFiles/test_one_server0.dir
+/home/zxl/local/TS-ORAM/OursOpt/Server_0/build/CMakeFiles/test_mul_server0.dir
+/home/zxl/local/TS-ORAM/OursOpt/Server_0/build/CMakeFiles/edit_cache.dir
+/home/zxl/local/TS-ORAM/OursOpt/Server_0/build/CMakeFiles/rebuild_cache.dir

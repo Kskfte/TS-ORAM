@@ -1,0 +1,5 @@
+/home/zxl/local/DPF-ORAM/TW-PIR/build/CMakeFiles/pir.dir
+/home/zxl/local/DPF-ORAM/TW-PIR/build/CMakeFiles/test_pir_read.dir
+/home/zxl/local/DPF-ORAM/TW-PIR/build/CMakeFiles/test_pir_write.dir
+/home/zxl/local/DPF-ORAM/TW-PIR/build/CMakeFiles/edit_cache.dir
+/home/zxl/local/DPF-ORAM/TW-PIR/build/CMakeFiles/rebuild_cache.dir
